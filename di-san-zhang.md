@@ -24,7 +24,9 @@ npm run dev
 
 ---
 
-tap: window下查看文件
+tap1:
+
+ window下查看文件
 
 dir c:\baidu /s  查看当前目录所有子目录的文件和文件夹。
 
@@ -34,9 +36,17 @@ dir c:/baidu /p 以分页方式显示
 
 exit 退出命令提示符
 
+tap2:
+
+[http://www.jianshu.com/p/2769efeaa10a](http://www.jianshu.com/p/2769efeaa10a) 基于vue-cli快速构建 
+
+[http://riny.net/2014/cnpm/](http://riny.net/2014/cnpm/) 国内优秀的npm镜像推荐及使用
+
+
+
+# 
+
 ---
-
-
 
 
 
