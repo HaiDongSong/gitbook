@@ -4,7 +4,7 @@
 * [第一章 vue简介](chapter1.md)
 * [第二章](di-er-zhang.md)
 * [第三章](di-san-zhang.md)
-  * 项目准备
+  * [项目准备](di-san-zhang/xiang-mu-zhun-bei.md)
   * 页面骨架开发
   * header组件开发
   * goods商品列表页开发
