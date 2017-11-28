@@ -1,9 +1,9 @@
 # Summary
 
-1. [引言](README.md)
-2. [第一章 vue简介](chapter1.md)
-3. [第二章](di-er-zhang.md) vue-cli开启vue.js项目
-4. [第三章](di-san-zhang.md) 项目实战
+* [引言](README.md)
+* [第一章 vue简介](chapter1.md)
+* [第二章](di-er-zhang.md)
+* [第三章](di-san-zhang.md)
   * 项目准备
   * 页面骨架开发
   * header组件开发
@@ -12,9 +12,7 @@
   * ratings评价列表页实现
   * seller商家详情页实现
   * 项目编译打包
-5. [第四章](di-si-zhang.md) 项目总结
-6. 第五章 附录A
-7. 第六章 附录B
-
-
+* [第四章](di-si-zhang.md)
+* [第五章 附录A](di-wu-zhang-fu-lu-a.md)
+* [第六章 附录B](di-liu-zhang-fu-lu-b.md)
 
