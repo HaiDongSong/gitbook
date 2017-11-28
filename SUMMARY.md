@@ -5,9 +5,7 @@
 * [第二章](di-er-zhang.md) vue-cli开启vue.js项目
 * [第三章](di-san-zhang.md) 项目实战
 
-    \*  项目准备
-
-
+\*  项目准备
 
 * [第四章](di-si-zhang.md)
 * 第五章
