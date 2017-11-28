@@ -10,7 +10,7 @@
 1. vue简介
 
   * [第一小节](first.md)
-  *[dierxiaojie](a.md)
+  * [dierxiaojie](a.md)
 
 2.  第二小节
 
