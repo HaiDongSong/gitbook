@@ -8,13 +8,15 @@ vue 查看是否安装成功
 
 vue list 查看vue模板
 
-vue init webpack sell  
+vue init webpack sell
 
 ![](/assets/import9.png)
 
 cd sell
 
 ls
+
+ll -a
 
 npm install
 
