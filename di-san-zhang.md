@@ -22,17 +22,19 @@ npm install
 
 npm run dev
 
+---
+
 tap: window下查看文件
 
 dir c:\baidu /s  查看当前目录所有子目录的文件和文件夹。
 
-dir c:\baidu /w 以紧凑方式显示文件和文件夹。
+dir c:\baidu /w 以紧凑方式显示文件和文件夹。
 
 dir c:/baidu /p 以分页方式显示
 
-EXIT 退出命令提示符
+exit 退出命令提示符
 
-
+---
 
 
 
